@@ -1,5 +1,7 @@
 #EXTM3U
 
+phox
+
 #EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", TNT Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
