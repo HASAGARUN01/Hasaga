@@ -20,7 +20,510 @@
 
                                                         
 
-                                                                             
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", TNT Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=TNT_Sports_1&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", TNT Sports 1 BU
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=TNT_Sports_1_BU&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", TNT Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=TNT_Sports_2&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", TNT Sports 2 BU
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=TNT_Sports_2_BU&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", TNT Sports 3
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=TNT_Sports_3&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", TNT Sports 3 BU
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=TNT_Sports_3_BU&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", TNT Sports 4
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=TNT_Sports_4&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", TNT Sports 4 BU
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=TNT_Sports_4_BU&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Sky Sports Football BU
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Sky_Sports_Football_BU&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Sky Sports Football
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Sky_Sports_Football_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Sky Sports Main Event
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Sky_Sports_Main_Event&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Sky Sports Main Event BU
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Sky_Sports_Main_Event_BU&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Sky Sports Premier League
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Sky_Sports_Premier_League&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Sky Sports Premier League BU
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Sky_Sports_Premier_League_BU&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Sky Sports Action
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Sky_Sports_Action_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Sky Sports Mix
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Sky_Sports_Mix_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Sky Sports Arena
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Sky_Sports_Arena_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Sky Sports News
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Sky_Sports_News_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Sky Sports Cricket
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Sky_Sports_Cricket_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Sky Sports Tennis
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Sky_Sports_Tennis&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Sky Sports F1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Sky_Sports_F1_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Sky Sports Golf
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Sky_Sports_Golf_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Sky Sports Racing
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Sky_Sports_Racing_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Bein Sports USA
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Bein_Sports_USA_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Tennis Channel
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Tennis_Channel_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", La Liga TV
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=La_Liga_TV_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", HBO
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=HBO_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", HBO 2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=HBO_2_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Discovery Channel
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Discovery_Channel_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Discovery Life
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Discovery_Life_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Cinemax West
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Cinemax_West_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", UK Great Movies
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=UK_Great_Movies_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", UK Sky Cinema Comedy
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=UK_Sky_Cinema_Comedy_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", UK Sky Cinema Family
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=UK_Sky_Cinema_Family_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", UK Cartoon Network
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=UK_Cartoon_Network_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", UK Virgin 2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=UK_Virgin_2&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", UK Virgin 3
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=UK_Virgin_3&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", UK Virgin 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=UK_Virgin_1&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", DAZN
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=DAZN_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Bein Sports English 2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Bein_Sports_English_2_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", SuperSport Premier League
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=SuperSport_Premier_League_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", SuperSport LaLiga
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=SuperSport_LaLiga_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", SuperSport Action
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=SuperSport_Action_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", SuperSport Blitz
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=SuperSport_Blitz_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", SuperSport Cricket
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=SuperSport_Cricket_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", SuperSport Football
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=SuperSport_Football_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", SuperSport Golf
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=SuperSport_Golf_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", SuperSport Rugby
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=SuperSport_Rugby_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", SuperSport Tennis
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=SuperSport_Tennis_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Variety 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Variety_1_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Variety 2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Variety_2_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Variety 3
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Variety_3_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Variety 4
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Variety_4_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Eurosport 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Eurosport_1_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Eurosport 2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Eurosport_2_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Premier Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Premier_Sports_1&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Premier Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Premier_Sports_2&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Golf Channel
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Golf_Channel_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", MLB Network
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=MLB_Network_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", NBA TV
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=NBA_TV_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", NFL Network
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=NFL_Network_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", NFL REDZONE
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=NFL_REDZONE_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", NHL Network
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=NHL_Network_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", WWE
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=WWE_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Willow Cricket
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Willow_Cricket_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Willow Extra
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Willow_Extra_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", World Fishing Network
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=World_Fishing_Network_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", ESPN
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=ESPN_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", ESPN 2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=ESPN_2_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", ESPN News
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=ESPN_News_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", ESPN U
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=ESPN_U_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", ITV 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=ITV_1&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", ITV 2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=ITV_2&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", ITV 3
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=ITV_3&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", ITV 4
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=ITV_4&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", MUTV
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=MUTV_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", LFC TV
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=LFC_TV_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", FOX NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=FOX_NEWS_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", ACC Network
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=ACC_Network_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Fight Network
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Fight_Network_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", CBS Sports Network
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=CBS_Sports_Network_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", CNBC
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=CNBC_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Fox Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Fox_Sports_1_Live_TV&token=z6r30pn4b6
+
+#EXTINF:-1 tvg-id="Lokal" group-title="BEESPORT CHANNEL" tvg-logo="http://fzlive.serv00.net/bee/images.png" ch-number="92" group-logo="", Fox Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
+#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
+https://fzlive.serv00.net/bee/index.m3u8?id=Fox_Sports_2_Live_TV&token=z6r30pn4b6
 
                                           
 
